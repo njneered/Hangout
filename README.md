@@ -2,6 +2,9 @@
 
 > **Stop letting the group chat kill your plans.**
 > Hangout is a mobile app that covers the full lifecycle of planning a casual hangout — from "we should hang out" to a confirmed event with everyone's availability, food assignments, and logistics in one place.
+> <img width="1342" height="750" alt="image" src="https://github.com/user-attachments/assets/6a65fdb8-9963-427c-8d96-2ae052392483" />
+> Demo: https://www.youtube.com/watch?v=a2DpuS-h1-Y
+
 
 ---
 
