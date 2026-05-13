@@ -6,7 +6,11 @@
 > 
 > <img width="1342" height="750" alt="image" src="https://github.com/user-attachments/assets/6a65fdb8-9963-427c-8d96-2ae052392483" />
 
-> Won Best Video for Spring 2026! Video Demo: https://www.youtube.com/watch?v=a2DpuS-h1-Y
+> Won Best Video for Spring 2026!
+>
+> Video Demo: https://www.youtube.com/watch?v=a2DpuS-h1-Y
+>
+> 
 > Figma Prototype: https://www.figma.com/proto/BRrLAKtyRDZDIihI02boQj/Hangout?node-id=2-4&starting-point-node-id=2%3A4&t=BiqdVPBzz5ApMTo7-1
 
 
